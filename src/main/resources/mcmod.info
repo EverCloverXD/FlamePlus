@@ -1,0 +1,17 @@
+[
+    {
+        "modid": "ThisMODisLegitLOL",
+        "name": "AVeryLegitMOD",
+        "description": "开了就是没开,没开就是没开!",
+        "version": "11.45.14",
+        "url": "https://nmsl.com",
+        "updateUrl": "",
+        "authorList": [
+            "Ciiri",
+        ],
+        "credits": "Ciiri",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
